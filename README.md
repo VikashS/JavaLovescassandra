@@ -1,2 +1,2 @@
-Naughty or Nice Example App
+Cassandra App
 ===========================
